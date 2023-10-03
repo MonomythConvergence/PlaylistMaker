@@ -26,6 +26,3 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
-# По указанию ревьюера
-*.xml
